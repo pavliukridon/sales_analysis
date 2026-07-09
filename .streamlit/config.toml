@@ -1,0 +1,17 @@
+[theme]
+base = "dark"
+
+primaryColor = "#58A6FF"
+backgroundColor = "#0D1117"
+secondaryBackgroundColor = "#161B22"
+textColor = "#F0F6FC"
+
+linkColor = "#58A6FF"
+
+baseRadius = "medium"
+buttonRadius = "medium"
+
+showWidgetBorder = true
+
+[client]
+showSidebarNavigation = true
